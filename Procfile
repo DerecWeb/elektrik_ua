@@ -1,1 +1,2 @@
-web: node index.js
+$ cat Procfile
+web: npm start
