@@ -1,0 +1,904 @@
+{
+  "jobs": [
+    {
+      "uuid": "f123",
+      "name": "Открытая прокладка кабеля сечением до 6 кв.мм.",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/sposobi-i-tehnika-prokladki-kabelya-svoimi-rukami_8-600x340-1.jpg",
+      "price": "11грн"
+    },
+    {
+      "uuid": "f124",
+      "name": "прокладка провода до 10мм",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/sposobi-i-tehnika-prokladki-kabelya-svoimi-rukami_8-600x340-1.jpg",
+      "price": "12грн"
+    },
+    {
+      "uuid": "f125",
+      "name": "Прокладка кабеля до 16 мм",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/sposobi-i-tehnika-prokladki-kabelya-svoimi-rukami_8-600x340-1.jpg",
+      "price": "13грн"
+    },
+    {
+      "uuid": "f126",
+      "name": "Прокладка кабеля до 50 мм",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/sposobi-i-tehnika-prokladki-kabelya-svoimi-rukami_8-600x340-1.jpg",
+      "price": "15грн"
+    },
+    {
+      "uuid": "f127",
+      "name": "Прокладка кабеля до 50 мм",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/sposobi-i-tehnika-prokladki-kabelya-svoimi-rukami_8-600x340-1.jpg",
+      "price": "25грн"
+    },
+    {
+      "uuid": "f128",
+      "name": "Открытая прокладка кабеля сечением более 6 кв.мм. от",
+      "type": " cabel ",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/sposobi-i-tehnika-prokladki-kabelya-svoimi-rukami_8-600x340-1.jpg",
+      "price": "12грн"
+    },
+    {
+      "uuid": "f129",
+      "name": "Прокладка гофры до 32мм",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/sposobi-i-tehnika-prokladki-kabelya-svoimi-rukami_8-600x340-1.jpg",
+      "price": "9 - 12грн"
+    },
+    {
+      "uuid": "f130",
+      "name": "Прокладка  гофры более 32мм от",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/sposobi-i-tehnika-prokladki-kabelya-svoimi-rukami_8-600x340-1.jpg",
+      "price": "12грн"
+    },
+    {
+      "uuid": "f131",
+      "name": "Прокладка   метталлорукава до 32мм",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/sposobi-i-tehnika-prokladki-kabelya-svoimi-rukami_8-600x340-1.jpg",
+      "price": "12грн"
+    },
+    {
+      "uuid": "f132",
+      "name": "Прокладка   метталлорукава более 32мм от",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/48ffcafb6b5d0cea72291815448fc907.jpg",
+      "price": "12грн"
+    },
+    {
+      "uuid": "f133",
+      "name": "Прокладка  электрокороба по дереву",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/48ffcafb6b5d0cea72291815448fc907.jpg",
+      "price": "11грн"
+    },
+    {
+      "uuid": "f134",
+      "name": "Прокладка  электрокороба по бетону, кирпичу",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/48ffcafb6b5d0cea72291815448fc907.jpg",
+      "price": "14грн"
+    },
+    {
+      "uuid": "f135",
+      "name": "Прокладка  СИПа от",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/48ffcafb6b5d0cea72291815448fc907.jpg",
+      "price": "15грн"
+    },
+    {
+      "uuid": "f136",
+      "name": "Прокладка металлического лотка от 50мм*50мм  м.п",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/48ffcafb6b5d0cea72291815448fc907.jpg",
+      "price": "17грн"
+    },
+    {
+      "uuid": "f137",
+      "name": "Прокладка металлического лотка от 300мм*50мм  м.п",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/48ffcafb6b5d0cea72291815448fc907.jpg",
+      "price": "22грн"
+    },
+    {
+      "uuid": "f138",
+      "name": "прокладка гладкостеных труб от",
+      "type": "cabel",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/48ffcafb6b5d0cea72291815448fc907.jpg",
+      "price": "20грн"
+    },
+    {
+      "uuid": "f139",
+      "name": "Шторбление в кирпиче 25х25 мм",
+      "type": "rozetki",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/48ffcafb6b5d0cea72291815448fc907.jpg",
+      "price": "15грн"
+    },
+    {
+      "uuid": "f140",
+      "name": "Шторбление в кирпиче более 25х25 мм от",
+      "type": "rozetki",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/48ffcafb6b5d0cea72291815448fc907.jpg",
+      "price": "18грн"
+    },
+    {
+      "uuid": "f141",
+      "name": "Шторбление в бетоне 25х25 мм",
+      "type": "rozetki",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/shema-razmescheniya-i-podklyucheniya-elektropriborov.jpg",
+      "price": "45грн"
+    },
+    {
+      "uuid": "f142",
+      "name": "Шторбление в бетоне более 25х25 мм от",
+      "type": "rozetki",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/shema-razmescheniya-i-podklyucheniya-elektropriborov.jpg",
+      "price": "55грн"
+    },
+    {
+      "uuid": "f143",
+      "name": "установка подрезетника в гипсокартоне",
+      "type": "rozetki",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/shema-razmescheniya-i-podklyucheniya-elektropriborov.jpg",
+      "price": "45грн"
+    },
+    {
+      "uuid": "f144",
+      "name": "установка подрезетника в кирпиче",
+      "type": "rozetki",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/shema-razmescheniya-i-podklyucheniya-elektropriborov.jpg",
+      "price": "55грн"
+    },
+    {
+      "uuid": "f145",
+      "name": "установка подрезетника в бетоне",
+      "type": "rozetki",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/shema-razmescheniya-i-podklyucheniya-elektropriborov.jpg",
+      "price": "75грн"
+    },
+    {
+      "uuid": "f146",
+      "name": "Монтаж и распайка распределительной коробки в гипсокартоне",
+      "type": "rozetki",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/shema-razmescheniya-i-podklyucheniya-elektropriborov.jpg",
+      "price": "120грн"
+    },
+
+    {
+      "uuid": "f148",
+      "name": "Монтаж и распайка распределительной коробки в бетоне",
+      "type": "rozetki",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/shema-razmescheniya-i-podklyucheniya-elektropriborov.jpg",
+      "price": "145грн"
+    },
+    {
+      "uuid": "f149",
+      "name": "Установка внутренней розетки, выключателя (в существующий подрозетник)",
+      "type": "rozetki",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/shema-razmescheniya-i-podklyucheniya-elektropriborov.jpg",
+      "price": "50грн"
+    },
+    {
+      "uuid": "f150",
+      "name": "Установка накладной розетки, выключателя",
+      "type": "rozetki",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/shema-razmescheniya-i-podklyucheniya-elektropriborov.jpg",
+      "price": "50грн"
+    },
+    {
+      "uuid": "f151",
+      "name": "Подключение электроприборов от",
+      "type": "rozetki",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/shema-razmescheniya-i-podklyucheniya-elektropriborov.jpg",
+      "price": "100грн"
+    },
+    {
+      "uuid": "f152",
+      "name": "установка и поключение 5-ти полюсной силовой розетки",
+      "type": "rozetki",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "https://www.kinopoisk.ru/images/film_big/447301.jpg",
+      "price": "355грн"
+    },
+    {
+      "uuid": "f153",
+      "name": "Подключение 5-ти полюсной вилки",
+      "type": "rozetki",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/shema-razmescheniya-i-podklyucheniya-elektropriborov.jpg",
+      "price": "150грн"
+    },
+    {
+      "uuid": "f154",
+      "name": "Установка электрощита - Накладной до 12 модулей",
+      "type": "lights",
+      "description": "Крупные объемы - индивидуальный рассчет",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4c60655145.png",
+      "price": "75грн"
+    },
+    {
+      "uuid": "f155",
+      "name": "Установка электрощита - Накладной до 24 модулей",
+      "type": "lights",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4c60655145.png",
+      "price": "150грн"
+    },
+    {
+      "uuid": "f156",
+      "name": "Установка электрощита - Накладной до 36 модулей",
+      "type": "lights",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4c60655145.png",
+      "price": "200грн"
+    },
+    {
+      "uuid": "f157",
+      "name": "Установка электрощита - внутрений до 12 модулей",
+      "type": "lights",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4c60655145.png",
+      "price": "250грн"
+    },
+    {
+      "uuid": "f158",
+      "name": "Установка электрощита - внутрений до 24 модулей",
+      "type": "lights",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4c60655145.png",
+      "price": "350грн"
+    },
+    {
+      "uuid": "f159",
+      "name": "Установка электрощита - внутрений до 36 модулей",
+      "type": "lights",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4c60655145.png",
+      "price": "450грн"
+    },
+    {
+      "uuid": "f160",
+      "name": "Установка электрического счетчика 1 фазного",
+      "type": "lights",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4c60655145.png",
+      "price": "250грн"
+    },
+    {
+      "uuid": "f161",
+      "name": "Установка электрического счетчика 3 фазы",
+      "type": "lights",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4c60655145.png",
+      "price": "450грн"
+    },
+    {
+      "uuid": "f162",
+      "name": "установка одного полюса автомата",
+      "type": "lights",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4c60655145.png",
+      "price": "55грн"
+    },
+    {
+      "uuid": "f163",
+      "name": "Установка реле напряжения от",
+      "type": "lights",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4c60655145.png",
+      "price": "120грн"
+    },
+    {
+      "uuid": "f164",
+      "name": "Монтаж пускателя",
+      "type": "lights",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4c60655145.png",
+      "price": "250грн"
+    },
+    {
+      "uuid": "f165",
+      "name": "Установка и сборка ГРЩ от",
+      "type": "lights",
+      "description": "Установка и сборка ГРЩ от",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4c60655145.png",
+      "price": "1800грн"
+    },
+
+    {
+      "uuid": "f166",
+      "name": "Установка точечного светильника от",
+      "type": "svetilnik",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/ceiling-lamp-335975_1280.jpg",
+      "price": "85грн"
+    },
+    {
+      "uuid": "f167",
+      "name": "Сборка светильника, бра от",
+      "type": "svetilnik",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/1292101875beeacc46c73cbcd06d89bf_345x345@2x.jpg",
+      "price": "60грн"
+    },
+    {
+      "uuid": "f168",
+      "name": "Установка и подключение светильника, бра",
+      "type": "svetilnik",
+      "description": "Демонтажные работы:",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/1292101875beeacc46c73cbcd06d89bf_345x345@2x.jpg",
+      "price": "50грн"
+    },
+    {
+      "uuid": "f169",
+      "name": "Установка накладных светильников",
+      "type": "svetilnik",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/mycom-oslo-1113x1200-1.jpg",
+      "price": "120грн"
+    },
+    {
+      "uuid": "f170",
+      "name": "Сборка люстры от",
+      "type": "svetilnik",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/ceiling-lamp-335975_1280.jpg",
+      "price": "100грн"
+    },
+    {
+      "uuid": "f171",
+      "name": "Установка и подключение люстры с креплением на дюбеля до 3 кг",
+      "type": "svetilnik",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/ceiling-lamp-335975_1280.jpg",
+      "price": "150грн"
+    },
+    {
+      "uuid": "f172",
+      "name": "Монтаж LED панелей в армстронг",
+      "type": "svetilnik",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/38-1.jpg",
+      "price": "120грн"
+    },
+    {
+      "uuid": "f173",
+      "name": "Монтаж накладных LED панелей",
+      "type": "svetilnik",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/38-1.jpg",
+      "price": "150грн"
+    },
+    {
+      "uuid": "f174",
+      "name": "Монтаж и подключение светодиодной ленты,1 м/п",
+      "type": "svetilnik",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/61220269_images_8682885748.jpg",
+      "price": "100грн"
+    },
+    {
+      "uuid": "f175",
+      "name": "Монтаж трековых систем, м.п.",
+      "type": "svetilnik",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/hqdefault.jpg",
+      "price": "00грн"
+    },
+    {
+      "uuid": "f175",
+      "name": "монтаж светильников на опоре",
+      "type": "svetilnik",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/26011b0_big.jpg",
+      "price": "400грн"
+    },
+    {
+      "uuid": "f176",
+      "name": "монтаж дизайнерских светильников",
+      "type": "svetilnik",
+      "description": "Электроустановочные изделия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/17989_5a8981c3afdba.jpg",
+      "price": "договорная"
+    },
+    {
+      "uuid": "f177",
+      "name": "Демонтаж розеток, выключателей",
+      "type": "cra",
+      "description": "Демонтажные работы",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/demontazh_rozetok_i_vyklyuchateley_v_donecke_dnr.jpg",
+      "price": "20грн"
+    },
+    {
+      "uuid": "f178",
+      "name": "Демонтаж электропроводки (за 1 м/п)",
+      "type": "cra",
+      "description": "Демонтажные работы",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/demontazh_rozetok_i_vyklyuchateley_v_donecke_dnr.jpg",
+      "price": "63грн"
+    },
+    {
+      "uuid": "f154",
+      "name": "Демонтаж светильников",
+      "type": "cra",
+      "description": "Демонтажные работы",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/Без-названия.jpg",
+      "price": "55грн"
+    },
+    {
+      "uuid": "f179",
+      "name": "Решітка з фільтром, 105x105",
+      "type": "box",
+      "description": "Для крупніх объектов индивидуальные условия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/9982_1.jpeg",
+      "price": "90грн"
+
+    },
+
+    {
+      "uuid": "f180",
+      "name": "Решітка з фільтром, 150x150",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/9982_1.jpeg",
+      "price": "116грн"
+    },
+
+    {
+      "uuid": "f181",
+      "name": "Решітка з фільтром, 250x250",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/9982_1.jpeg",
+      "price": "281грн"
+    },
+
+    {
+      "uuid": "f182",
+      "name": "Кишеня шафова для документації A4, пластикова",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/2149933525.jpg",
+      "price": "100грн"
+    },
+
+    {
+      "uuid": "f183",
+      "name": "Шафа удароміцна для лічильника PES 200x320x100, IP65, eco",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/2149933525.jpg",
+      "price": "668грн"
+    },
+    {
+      "uuid": "f184",
+      "name": "Решітка з фільтром, 105x105",
+      "type": "box",
+      "description": "Для крупных объектов индивидуальные условия",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/9982_1.jpeg",
+      "price": "90грн"
+
+    },
+
+    {
+      "uuid": "f185",
+      "name": "Решітка з фільтром, 150x150",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/9982_1.jpeg",
+      "price": "116грн"
+    },
+
+    {
+      "uuid": "f186",
+      "name": "Решітка з фільтром, 250x250",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/9982_1.jpeg",
+      "price": "281грн"
+    },
+
+    {
+      "uuid": "f187",
+      "name": "Кишеня шафова для документації A4, пластикова",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/2149933525.jpg",
+      "price": "100грн"
+    },
+
+    {
+      "uuid": "f188",
+      "name": "Шафа удароміцна для лічильника PES 200x320x100, IP65, eco",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/images.jpg",
+      "price": "668грн"
+    },
+    {
+      "uuid": "f189",
+      "name": "Шафа удароміцна для лічильника PES 210x320x130, IP65",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/images.jpg",
+      "price": "1050грн"
+    },
+    {
+      "uuid": "f190",
+      "name": "Шафа удароміцна для лічильника PES 200x320x100, IP65, eco",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/tshp-1-350x274-1.png",
+      "price": "836грн"
+    },
+    {
+      "uuid": "f191",
+      "name": "Шафа удароміцна PES 250x300x170, МП, IP65",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/tshp-1-350x274-1.png",
+      "price": "960грн"
+    },
+    {
+      "uuid": "f192",
+      "name": "Шафа удароміцна PES 300x400x170, МП, IP65",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/2149933525.jpg",
+      "price": "1411грн"
+    },
+    {
+      "uuid": "f193",
+      "name": "Шафа удароміцна для лічильника PES 200x320x100, IP65, eco",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/2149933525.jpg",
+      "price": "2398грн"
+    },
+    {
+      "uuid": "f194",
+      "name": "Шафа пластикова розподільна PES, тип 1, 600x1770x320, МП, IP54",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/af137a741f.jpg",
+      "price": "13487грн"
+    },
+    {
+      "uuid": "f195",
+      "name": "Коробка монтажна PES, 360X250X130, IP54",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/dd9af46d01.jpg",
+      "price": "740грн"
+    },
+    {
+      "uuid": "f196",
+      "name": "Шафа удароміцна модульна ABS 250х350х150, 8х2 модулів, з прозорими дверцятами IP65",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/8e00d8f1d8.jpg",
+      "price": "1125грн"
+    },
+    {
+      "uuid": "f197",
+      "name": "Шафа удароміцна модульна ABS 300x400x170, 12х2 модулів, IP65",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/8e00d8f1d8.jpg",
+      "price": "1480грн"
+    },
+    {
+      "uuid": "f198",
+      "name": "Шафа удароміцна модульна ABS 350x500x190, 12х3 модулів, IP65",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/8e00d8f1d8.jpg",
+      "price": "2280грн"
+    },
+    {
+      "uuid": "f199",
+      "name": "Шафа удароміцна модульна ABS 400x600x200, 15x4 модулів, IP65",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/8e00d8f1d8.jpg",
+      "price": "2698грн"
+    },
+    {
+      "uuid": "f200",
+      "name": "Шафа удароміцна ABS 200x300x130, МП, з прозорими дверцятами, IP65",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/e0f51e7bf1.jpg",
+      "price": "814грн"
+    },
+    {
+      "uuid": "f201",
+      "name": "Шафа удароміцна ABS 250x350x150, МП, з прозорими дверцятами, IP65",
+      "type": "box",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/01/e0f51e7bf1.jpg",
+      "price": "945грн"
+    },
+    {
+      "uuid": "f202",
+      "name": "Кабель силовий мідний ВВГнг-LS-П 2х1,5",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "8781грн за км"
+    },
+    {
+      "uuid": "f203",
+      "name": "Кабель силовий мідний ВВГнг-LS-П 2х2,5",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "13250грн за км"
+    },
+    {
+      "uuid": "f204",
+      "name": "Кабель силовий мідний ВВГнг-LS-П 3х1,5",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "12680грн за км"
+    },
+    {
+      "uuid": "f205",
+      "name": "Кабель силовий мідний ВВГнг-LS-П 3х2,5",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "19570грн за км"
+    },
+    {
+      "uuid": "f206",
+      "name": "Кабель силовий мідний ВВГнг-LS-П 3х4",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "31056грн за км"
+    },
+    {
+      "uuid": "f207",
+      "name": "Кабель силовий мідний ВВГнг-LS(нд) 3х1,5",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "12807грн за км"
+    },
+    {
+      "uuid": "f208",
+      "name": "Кабель силовий мідний ВВГнг-LS(нд) 3х2,5",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "19952грн за км"
+    },
+    {
+      "uuid": "f209",
+      "name": "Кабель силовий мідний ВВГнг-LS(нд) 3х4",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "31698грн за км"
+    },
+    {
+      "uuid": "f210",
+      "name": "Кабель силовий мідний ВВГнг-LS(нд) 3х2,5",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "19952грн за км"
+    },
+    {
+      "uuid": "f211",
+      "name": "Кабель силовий мідний ВВГнг-LS(нд) 3х6",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "46098грн за км"
+    },
+    {
+      "uuid": "f212",
+      "name": "Кабель силовий мідний ВВГнг-LS(нд) 3х10",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "71625грн за км"
+    },
+    {
+      "uuid": "f213",
+      "name": "Кабель силовий мідний ВВГнг-LS(нд) 4х1,5",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "71625грн за км"
+    },
+    {
+      "uuid": "f212",
+      "name": "Кабель силовий мідний ВВГнг-LS(нд) 3х10",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "17076грн за км"
+    },
+    {
+      "uuid": "f213",
+      "name": "Кабель силовий мідний ВВГнг-LS(нд) 3х10",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "71625грн за км"
+    },
+    {
+      "uuid": "f214",
+      "name": "Кабель силовий мідний ВВГнг-LS(нд) 4х2,5",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "25927грн за км"
+    },
+    {
+      "uuid": "f215",
+      "name": "Кабель силовий мідний ВВГнг-LS(нд) 4х4",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "41497грн за км"
+    },
+    {
+      "uuid": "f216",
+      "name": "Кабель силовий мідний ВВГнг-LS(нд) 4х6",
+      "type": "kabeli",
+      "description": "Кабель силовий мідний ВВГнг-LS(нд) 4х6",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "60609грн за км"
+    },
+    {
+      "uuid": "f217",
+      "name": "Кабель силовий мідний ВВГнг-LS(нд) 4х10",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "94365грн за км"
+    },
+    {
+      "uuid": "f218",
+      "name": "Кабель силовий мідний ВВГнг-LS(нд) 4х16",
+      "type": "kabeli",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "149420грн за км"
+    },
+    {
+      "uuid": "f219",
+      "name": "Світильник світлодіодний універсальний ЕВРОСВЕТ MASTER PRO 80Вт 11200Лм IP65",
+      "type": "svet",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/802ea75eda.jpg",
+      "price": "6750грн"
+    },
+    {
+      "uuid": "f220",
+      "name": "Світильник світлодіодний універсальний ЕВРОСВЕТ MASTER PRO 100Вт 14000Лм IP65",
+      "type": "svet",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/802ea75eda.jpg",
+      "price": "7650грн"
+    },
+    {
+      "uuid": "f221",
+      "name": "Світильник світлодіодний універсальний ЕВРОСВЕТ MASTER PRO 120Вт 16800Лм IP65",
+      "type": "svet",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/802ea75eda.jpg",
+      "price": "8059грн"
+    },
+    {
+      "uuid": "f222",
+      "name": "Світильник світлодіодний універсальний ЕВРОСВЕТ MASTER PRO 160Вт 22400Лм IP65 ",
+      "type": "svet",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/802ea75eda.jpg",
+      "price": "12529грн"
+    },
+    {
+      "uuid": "f223",
+      "name": "Світильник світлодіодний універсальний ЕВРОСВЕТ MASTER PRO 200Вт 28000Лм IP65",
+      "type": "svet",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/802ea75eda.jpg",
+      "price": "13770грн"
+    },
+    {
+      "uuid": "f224",
+      "name": "Світильник світлодіодний універсальний ЕВРОСВЕТ MASTER PRO 240Вт 33600Лм IP65",
+      "type": "svet",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/4422e2477d602a7e0b72c1a798c219d5.jpg",
+      "price": "14175грн"
+    },
+    {
+      "uuid": "f225",
+      "name": "Запобіжник ЕВРОСВЕТ PULS-100 110В-1А; 220В-0,5А",
+      "type": "svet",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/64bee17bd9f7e7a0b110f21321c06229.jpeg",
+      "price": "135грн"
+    },
+    {
+      "uuid": "f226",
+      "name": "Запобіжник ЕВРОСВЕТ PULS-500 110В-5А; 220В-2,5А",
+      "type": "svet",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/64bee17bd9f7e7a0b110f21321c06229.jpeg",
+      "price": "230грн"
+    },
+    {
+      "uuid": "f227",
+      "name": "Светильник светодиодный для высоких потолков ЕВРОСВЕТ 100Вт 6400К EB-100-04 10000Лм",
+      "type": "svet",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/b54e330747da8ff164d9aca0b468e388.jpg",
+      "price": "1100грн"
+    },
+    {
+      "uuid": "f228",
+      "name": "Светильник светодиодный для высоких потолков ЕВРОСВЕТ 150Вт 6400К EB-150-04 15000Лм",
+      "type": "svet",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/b54e330747da8ff164d9aca0b468e388.jpg",
+      "price": "1599грн"
+    },
+    {
+      "uuid": "f229",
+      "name": "Светильник светодиодный для высоких потолков ЕВРОСВЕТ 200Вт 6400К EB-200-04 20000Лм",
+      "type": "svet",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/b54e330747da8ff164d9aca0b468e388.jpg",
+      "price": "2500грн"
+    },
+    {
+      "uuid": "f225",
+      "name": "Прожектор світлодіодний ЕВРОСВЕТ 20Вт 6400K EV-20-504 PRO-XL 1800Лм",
+      "type": "svet",
+      "description": "На комплексные покупки дополнительные скидки",
+      "picture": "http://eurohelpinc.club/wp-content/uploads/2020/02/6ce8e2060eac2d92e8781a6d8327db0f.jpeg",
+      "price": "167грн"
+    }
+  ]
+}
